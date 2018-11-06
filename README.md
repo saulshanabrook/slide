@@ -1,4 +1,6 @@
 # slide
+**NOTE: If anyone comes accross this looking for continuation of this work, I now believe that category theory has the answers that we were looking for here. See this talk/paper ["Compiling to Categories"](http://conal.net/papers/compiling-to-categories/). We are using some of this theory in compiling array expression in Python: https://github.com/quansight-labs/uarray/. At some point this work could come back to Clojure.**
+
 Graph computation library for Clojure. Computation happens on nodes of the graph and data flows (or *slides* 😉) accross it's edges and is stored globally. 
 
 
